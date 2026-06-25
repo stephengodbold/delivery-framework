@@ -6,6 +6,15 @@ Maintain visibility, support the workforce, and keep client relationships health
 
 ---
 
+## Entry Criteria (Gate 1 passed)
+
+- All Gate 1 exit criteria have been confirmed
+- The Delivery Handover Record is complete
+- The team composition brief has been shared with the client
+- Kickoff has been scheduled or completed
+
+---
+
 ## Roles
 
 | Role | Responsibility |
@@ -18,22 +27,11 @@ Maintain visibility, support the workforce, and keep client relationships health
 
 ---
 
-## Cadence
+## Key Activities
 
-The framework operates on a regular review cadence. The cadence is not a reporting exercise. It is a conversation.
+**Fortnightly delivery health check.** The Delivery Owner reviews the engagement health score across all five dimensions and records a written rationale for each rating. Amber or Red dimensions trigger a conversation, not an escalation process. The review is logged in the Engagement Health Register.
 
-| Review | Frequency | Participants | Purpose |
-|---|---|---|---|
-| Delivery health check | Fortnightly | Delivery Owner, Practice Lead | Review leading metrics, surface risks early |
-| Client business review | Monthly (or as agreed) | Delivery Owner, client sponsor | Relationship health, forward planning |
-| Workforce review | Monthly | Practice Lead, Resource Manager | Utilisation, skilling, allocation gaps |
-| Portfolio review | Monthly | All Delivery Owners, leadership | Cross-portfolio risk, capacity, and forecast |
-
----
-
-## Engagement Health Score
-
-Each active engagement carries a health score reviewed fortnightly. It is a conversation prompt, not a performance grade. A red score does not trigger an escalation process. It triggers a conversation.
+**Engagement health scoring.** Each active engagement carries a health score reviewed fortnightly. It is a conversation prompt, not a performance grade.
 
 | Dimension | What it measures | Leading indicator |
 |---|---|---|
@@ -48,52 +46,20 @@ Each dimension is scored Green / Amber / Red by the Delivery Owner with a brief 
 - Amber overall: any single dimension is Amber
 - Red overall: any dimension is Red, or two or more are Amber
 
----
+**Monthly client business review.** A structured conversation with the client sponsor covering relationship health, delivery progress, risks, and forward planning. Frequency may be adjusted by agreement with the client for shorter engagements.
 
-## Template: Engagement Health Register Entry
+**Scope and change management.** This framework does not define a change control process, as that sits within the project management methodology. It does require at a framework level that all agreed scope changes are reflected in an updated delivery forecast, that the Finance Partner is notified of any change affecting revenue recognition timing or value, and that changes implied during the sale but not captured in the SOW are flagged to the Account Executive.
 
-```
-Engagement:
-Delivery Owner:
-Review date:
-Overall status: Green / Amber / Red
+**Workforce management.** The Delivery Owner and Resource Manager monitor allocation and utilisation across the engagement. Elasticity signals are reviewed at the monthly workforce review: unresolved resource gaps, practitioners on bench for more than 10 business days, skills required but not held, and certifications appearing in bids but not in the team. Practitioners are not reallocated without a direct conversation with their Delivery Owner and the individual concerned.
 
-Dimension scores:
-- Scope confidence:        [G/A/R] — [brief rationale]
-- Forecast confidence:     [G/A/R] — [brief rationale]
-- Relationship health:     [G/A/R] — [brief rationale]
-- Workforce fit:           [G/A/R] — [brief rationale]
-- Commercial health:       [G/A/R] — [brief rationale]
+**Review cadence.**
 
-Key risks this period:
-Actions agreed:
-Next review date:
-```
-
----
-
-## Scope and Change Management
-
-This framework does not define a change control process, as that sits within the project management methodology. It does require the following at a framework level:
-
-- All agreed scope changes are reflected in an updated delivery forecast
-- The Finance Partner is notified of any change that affects revenue recognition timing or value
-- Changes that were not caught in the SOW but were implied during the sale are flagged to the Account Executive
-
----
-
-## Workforce and Utilisation
-
-**Billable utilisation target.** The organisation operates at a target of 75-80% billable utilisation for delivery practitioners (excluding practice leads and management). This is a planning input, not a performance metric applied to individuals.
-
-**Elasticity signals** reviewed at the monthly workforce review:
-
-- Engagements with unresolved resource gaps (skill or capacity)
-- Practitioners on the bench for more than 10 business days
-- Engagements requiring skills the organisation does not currently hold
-- Certifications or skill areas appearing repeatedly in bids but not in the team
-
-**People-first allocation.** When an engagement requires a decision about who to move, upskill, or bring in, the conversation happens before the decision. Practitioners are not reallocated without a direct conversation with their Delivery Owner and the affected individual.
+| Review | Frequency | Participants | Purpose |
+|---|---|---|---|
+| Delivery health check | Fortnightly | Delivery Owner, Practice Lead | Review health score, surface risks early |
+| Client business review | Monthly (or as agreed) | Delivery Owner, client sponsor | Relationship health, forward planning |
+| Workforce review | Monthly | Practice Lead, Resource Manager | Utilisation, skilling, allocation gaps |
+| Portfolio review | Monthly | All Delivery Owners, leadership | Cross-portfolio risk, capacity, and forecast |
 
 ---
 
@@ -109,3 +75,15 @@ This framework does not define a change control process, as that sits within the
 | Bench time by practitioner | <10 days | Weekly | Resource Manager |
 | Active engagements per Delivery Owner | — | Monthly | Delivery Director |
 | Client business review completion rate | 100% | Monthly | Delivery Director |
+
+---
+
+## Exit Criteria (Gate 2)
+
+All of the following must be confirmed before the engagement moves to Stage 3:
+
+- All contracted deliverables are completed or formally accepted by the client
+- Outstanding scope items, exceptions, or carve-outs are documented and agreed in writing with the client
+- A client closure meeting date has been scheduled with the client sponsor
+- The Finance Partner has confirmed the final billing position
+- The final health register entry has been completed and reflects the closing state of the engagement

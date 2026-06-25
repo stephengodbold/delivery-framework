@@ -6,16 +6,13 @@ Ensure that everything learned during the sales process is captured and handed t
 
 ---
 
-## Gate 1 Criteria
+## Entry Criteria
 
-Before a project enters delivery, the following must be true:
+Stage 1 is triggered when a deal reaches contract signature or a formal letter of engagement is issued.
 
-- A Delivery Owner has been assigned and briefed
-- The client sponsor and key stakeholders have been identified and mapped
-- The SOW or engagement brief has been reviewed by the Delivery Owner
-- Revenue recognition method and schedule have been agreed with Finance
-- A kickoff date and pre-kickoff client meeting have been scheduled
-- Assumptions and exclusions from the sale have been documented and flagged
+- A signed contract, SOW, or letter of engagement is in place
+- The Account Executive or Sales Lead has confirmed the deal is closed
+- A scheduled handover date has been agreed between sales and delivery
 
 ---
 
@@ -23,7 +20,7 @@ Before a project enters delivery, the following must be true:
 
 | Role | Responsibility |
 |---|---|
-| Account Executive / Sales Lead | Delivers the handover briefing; remains available for context |
+| Account Executive / Sales Lead | Delivers the handover briefing; remains available for context throughout Stage 1 |
 | Delivery Owner | Accepts the engagement, reviews the SOW, raises concerns before kickoff |
 | Practice Lead | Confirms resource availability and team composition |
 | Finance Partner | Confirms billing setup, revenue schedule, and PO reference |
@@ -32,81 +29,38 @@ Before a project enters delivery, the following must be true:
 
 ## Key Activities
 
-**Transition meeting (required).** A structured 60-90 minute session between sales and delivery. Its agenda covers: what the client was told, what the client cares about most, who the difficult stakeholders are, what was left out of scope and why, and what would make this engagement a success in the client's eyes. Output: Delivery Handover Record.
+**Transition meeting (required).** A structured 60-90 minute session between sales and delivery. Its agenda covers: what the client was told, what the client cares about most, who the difficult stakeholders are, what was left out of scope and why, and what would make this engagement a success in the client's eyes. Output: completed Delivery Handover Record.
 
 **Risk identification.** Any concern raised by the Delivery Owner or Practice Lead during transition is logged. These are inputs to the first client conversation, not blockers to starting.
+
+**Deal to delivery vehicle profiling.** The Delivery Owner rates each complexity and uncertainty variable (Low / Medium / High) in consultation with the Sales Lead and Practice Lead, and records a composite profile and recommended delivery vehicle.
 
 **Team composition brief.** A one-page summary of who will be on the engagement, their roles, and expected time allocation. Shared with the client at or before kickoff.
 
 ---
 
-## Template: Delivery Handover Record
+## Metrics
 
-```
-Engagement name:
-Client:
-Delivery Owner:
-Sales Lead:
-Date of handover:
-Scheduled kickoff:
+| Metric | Category | Type | Owner |
+|---|---|---|---|
+| Time from signature to handover meeting completed | Transition timing | Leading | Delivery Owner |
+| % of engagements with completed Handover Record before kickoff | Transition compliance | Leading | Practice Lead |
+| Number of open risk items at Gate 1 | Risk | Point-in-time | Delivery Owner |
+| Complexity profile rating (8 variables, L/M/H) | Deal profiling | Point-in-time | Delivery Owner |
+| Uncertainty profile rating (5 variables, L/M/H) | Deal profiling | Point-in-time | Delivery Owner |
+| Composite profile and delivery vehicle recommendation | Deal profiling | Point-in-time | Delivery Owner + Practice Lead |
 
-1. What was sold (summary of scope in plain language):
-
-2. Key client stakeholder(s) and their priorities:
-
-3. What matters most to the client beyond the stated deliverables:
-
-4. Known risks or assumptions from the sale:
-
-5. Anything excluded from scope that the client may expect:
-
-6. Revenue schedule and billing milestones agreed:
-
-7. Open items to resolve before kickoff:
-
----
-
-Deal to Delivery Vehicle Profile
-Assessed by (Delivery Owner):
-Date:
-
-Complexity Variables        Rating (L/M/H)   Notes
-Complexity
-Team size
-Criticality
-Team location
-Team maturity
-Leadership strength
-Domain knowledge
-Dependencies
-
-Uncertainty Variables       Rating (L/M/H)   Notes
-Market uncertainty
-Technical uncertainty
-Number of stakeholders
-Duration
-Level of change control
-
-Composite profile summary (2-3 sentences):
-
-Recommended delivery vehicle:
-
-Flags for Gate 1 discussion:
-```
-
----
-
-## Stage 1 Metrics
-
-These are the per-engagement metrics assessed at Gate 1. Portfolio-level measures covering sales and delivery alignment, cross-engagement capacity, and workforce capability are held in the delivery portfolio management document.
+Portfolio-level measures covering sales and delivery alignment, cross-engagement capacity, and workforce capability are held in the delivery portfolio management document.
 
 See: [delivery-portfolio-management.md](delivery-portfolio-management.md)
 
-### Deal to Delivery Vehicle Profiling Variables
+---
+
+## Deal to Delivery Vehicle Profiling Variables
 
 Each variable is rated Low / Medium / High at Gate 1 by the Delivery Owner in consultation with the Sales Lead and Practice Lead.
 
-**Complexity Variables**
+### Complexity Variables
 
 | Variable | What it measures | Planning implication |
 |---|---|---|
@@ -119,7 +73,7 @@ Each variable is rated Low / Medium / High at Gate 1 by the Delivery Owner in co
 | Domain knowledge | Degree to which the team holds relevant industry or environment knowledge | Low domain knowledge increases ramp-up time and the risk of incorrect assumptions; compensate with closer client involvement in early delivery phases |
 | Dependencies | Number and nature of dependencies on third parties or client teams | A high dependency count increases schedule risk and reduces the Delivery Owner's control over outcomes; each dependency requires an identified owner and a fallback position |
 
-**Uncertainty Variables**
+### Uncertainty Variables
 
 | Variable | What it measures | Planning implication |
 |---|---|---|
@@ -129,7 +83,7 @@ Each variable is rated Low / Medium / High at Gate 1 by the Delivery Owner in co
 | Duration | Planned length of the engagement | Longer engagements carry compounding uncertainty; require more frequent reforecast cycles and explicit attention to team continuity |
 | Level of change control | Formality of the agreed change control process | Low change control in a high-complexity or high-uncertainty engagement is a material risk; agree a minimum change governance approach with the client before kickoff |
 
-**Delivery vehicle indicators**
+### Delivery Vehicle Indicators
 
 | Profile shape | Likely delivery vehicle |
 |---|---|
@@ -138,13 +92,17 @@ Each variable is rated Low / Medium / High at Gate 1 by the Delivery Owner in co
 | High complexity / High uncertainty | Phased program with go/no-go gates; senior Delivery Owner required |
 | Low complexity / Low uncertainty | Lightweight engagement model; standard managed service or short-form project |
 
-### Stage 1 Metrics Summary
+---
 
-| Metric | Category | Type | Owner |
-|---|---|---|---|
-| Complexity profile rating (8 variables, L/M/H) | Deal profiling | Point-in-time | Delivery Owner |
-| Uncertainty profile rating (5 variables, L/M/H) | Deal profiling | Point-in-time | Delivery Owner |
-| Composite profile and delivery vehicle recommendation | Deal profiling | Point-in-time | Delivery Owner + Practice Lead |
-| Time from signature to handover meeting completed | Transition timing | Leading | Delivery Owner |
-| % of engagements with completed Handover Record before kickoff | Transition compliance | Leading | Practice Lead |
-| Number of open risk items at Gate 1 | Risk | Point-in-time | Delivery Owner |
+## Exit Criteria (Gate 1)
+
+All of the following must be confirmed before the engagement moves to Stage 2:
+
+- A Delivery Owner has been assigned and briefed
+- The client sponsor and key stakeholders have been identified and mapped
+- The SOW or engagement brief has been reviewed by the Delivery Owner
+- Revenue recognition method and schedule have been agreed with Finance
+- A kickoff date and pre-kickoff client meeting have been scheduled
+- Assumptions and exclusions from the sale have been documented and flagged
+- The Delivery Handover Record is complete, including the deal to delivery vehicle profile
+- The team composition brief has been prepared and is ready to share with the client
