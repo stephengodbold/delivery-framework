@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This framework governs how a 200-person technology professional services and managed services organisation manages the flow of work from the point of sale through to financial close. It is built on the belief that alignment and communication, not process compliance, are what determine whether delivery succeeds.
+This framework governs how a 50 to 200-person technology professional services and managed services organisation manages the flow of work from the point of sale through to financial close. It is built on the belief that alignment and communication, not process compliance, are what determine whether delivery succeeds.
 
 The framework sits above project methodology. It does not prescribe whether a project runs as Agile, PRINCE2, waterfall, or a hybrid. It creates the organisational conditions for any methodology to work.
 
