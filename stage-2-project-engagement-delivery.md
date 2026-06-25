@@ -78,6 +78,16 @@ Each dimension is scored Green / Amber / Red by the Delivery Owner with a brief 
 
 ---
 
+## Per-Engagement Governance
+
+| Element | Owner | Review frequency |
+|---|---|---|
+| Gate criteria compliance (all gates) | Delivery Owner | Per gate |
+| Engagement Health Register | Delivery Owner | Fortnightly |
+| Finance handover compliance | Finance Partner | Per engagement |
+
+---
+
 ## Exit Criteria (Gate 2)
 
 All of the following must be confirmed before the engagement moves to Stage 3:
