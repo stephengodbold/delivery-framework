@@ -29,7 +29,6 @@ The framework sits above project methodology. It does not prescribe whether a pr
 
 | Document | Description |
 |---|---|
-| [delivery-management-framework.md](delivery-management-framework.md) | This file. Framework overview, guiding principles, stage summaries, metrics dashboard, and governance. |
 | [delivery-portfolio-management.md](delivery-portfolio-management.md) | Portfolio-level objectives, roles, sales and delivery alignment measures, cross-engagement measures, closure measures, and portfolio cadences. |
 | [stage-1-sales-to-delivery-transition.md](stage-1-sales-to-delivery-transition.md) | Gate 1 criteria, roles, transition meeting, Delivery Handover Record template, and per-engagement Stage 1 metrics including deal to delivery vehicle profiling variables. |
 | [stage-2-project-engagement-delivery.md](stage-2-project-engagement-delivery.md) | Delivery cadence, engagement health scoring, scope and change management, workforce and utilisation guidance, and Stage 2 metrics. |
