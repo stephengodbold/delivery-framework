@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This framework governs how a 50-200-person technology professional services and managed services organisation manages the flow of work from the point of sale through to financial close. It is built on the belief that alignment and communication, not process compliance, are what determine whether delivery succeeds.
+This framework governs how a 200-person technology professional services and managed services organisation manages the flow of work from the point of sale through to financial close. It is built on the belief that alignment and communication, not process compliance, are what determine whether delivery succeeds.
 
 The framework sits above project methodology. It does not prescribe whether a project runs as Agile, PRINCE2, waterfall, or a hybrid. It creates the organisational conditions for any methodology to work.
 
@@ -30,7 +30,8 @@ The framework sits above project methodology. It does not prescribe whether a pr
 | Document | Description |
 |---|---|
 | [delivery-management-framework.md](delivery-management-framework.md) | This file. Framework overview, guiding principles, stage summaries, metrics dashboard, and governance. |
-| [stage-1-sales-to-delivery-transition.md](stage-1-sales-to-delivery-transition.md) | Gate 1 criteria, roles, transition meeting, Delivery Handover Record template, and all Stage 1 metrics including timing, capability, alignment, capacity, and deal to delivery vehicle profiling variables. |
+| [delivery-portfolio-management.md](delivery-portfolio-management.md) | Portfolio-level objectives, roles, sales and delivery alignment measures, cross-engagement measures, closure measures, and portfolio cadences. |
+| [stage-1-sales-to-delivery-transition.md](stage-1-sales-to-delivery-transition.md) | Gate 1 criteria, roles, transition meeting, Delivery Handover Record template, and per-engagement Stage 1 metrics including deal to delivery vehicle profiling variables. |
 | [stage-2-project-engagement-delivery.md](stage-2-project-engagement-delivery.md) | Delivery cadence, engagement health scoring, scope and change management, workforce and utilisation guidance, and Stage 2 metrics. |
 | [stage-3-delivery-closure.md](stage-3-delivery-closure.md) | Gate 2 criteria, client closure meeting, internal retrospective, practitioner transition planning, Closure Acknowledgement template, and Stage 3 metrics. |
 | [stage-4-delivery-to-finance-transition.md](stage-4-delivery-to-finance-transition.md) | Gate 3 criteria, timesheet reconciliation, revenue recognition review, retention management, Finance Handover Record template, and Stage 4 metrics. |

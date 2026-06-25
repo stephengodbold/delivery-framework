@@ -96,77 +96,11 @@ Flags for Gate 1 discussion:
 
 ---
 
-## Metrics
+## Stage 1 Metrics
 
-### Timing Variables
+These are the per-engagement metrics assessed at Gate 1. Portfolio-level measures covering sales and delivery alignment, cross-engagement capacity, and workforce capability are held in the delivery portfolio management document.
 
-These metrics operate as both point-in-time snapshots and duration measures. They directly inform hiring decisions, job assignment, and onboarding planning.
-
-**By deal complexity and size**
-
-| Metric | Description | Type | Owner |
-|---|---|---|---|
-| Deal stage for forecast | Pipeline stage distribution segmented by deal size and complexity | Leading | Sales / Delivery Director |
-| Mean lead time: close to start | Average elapsed days between contract signature and engagement kickoff, segmented by deal size and complexity | Leading | Delivery Director |
-
-**By seniority**
-
-| Metric | Description | Type | Owner |
-|---|---|---|---|
-| Mean lead time: advertise to hire | Average days from job posting to accepted offer, by seniority band | Leading | Resource Manager |
-| Onboarding lead time | Average days from hire to billable productivity, by seniority band | Leading | Resource Manager |
-
-> The advertise-to-hire and onboarding lead times combine to give the total resourcing lead time by seniority. Both must be read together when assessing whether a hiring decision has been made early enough to meet delivery demand.
-
----
-
-### Capability Variables
-
-| Metric | Description | Type | Owner |
-|---|---|---|---|
-| T-shape density as % of population | Proportion of practitioners with a primary deep skill and at least one adjacent skill area, as self-identified or practice manager-identified. Higher density indicates a more elastic workforce. | Leading | Practice Lead |
-
-| What it signals | Implication |
-|---|---|
-| Rising T-shape density | Increasing elasticity, lower risk of hard resourcing blocks |
-| Declining T-shape density | Specialisation is deepening, elasticity is reducing, pipeline diversity risk is rising |
-| Density concentrated in a single practice area | Elasticity is not evenly distributed, some deal types remain brittle |
-
----
-
-### Sales and Delivery Alignment Variables
-
-These two metrics create a two-way reflection. Misalignment in either direction is a leading indicator of revenue leakage (deals closed but can't resource) or profit leakage (resources that can't be aligned to deals).
-
-| Metric | Description | Type | Owner |
-|---|---|---|---|
-| Core skill population as % of total | % of skill base aligned to primary in-market offer. Higher = stronger alignment of resourcing to sales and marketing effort. | Leading | Practice Lead |
-| Deal types with high delivery alignment as % of pipeline | % of sales pipeline aligned to core skill base. Higher = stronger alignment of sales effort to available resourcing. | Leading | Sales / Practice Lead |
-
-**Reading the two metrics together:**
-
-| Core skill % | Pipeline alignment % | Signal |
-|---|---|---|
-| High | High | Strong alignment in both directions |
-| High | Low | Workforce is set up for deals the sales team is not closing |
-| Low | High | Sales team is closing deals the workforce cannot readily absorb |
-| Both declining | — | Structural drift; conversation between sales, delivery, and practice leadership is needed |
-
----
-
-### Capacity Variables
-
-Reviewed at Gate 1 for every incoming engagement. The Delivery Owner and Resource Manager confirm the engagement can be resourced from available capacity, from planned hiring, or via a documented exception requiring leadership decision.
-
-| Metric | Description | Type | Owner |
-|---|---|---|---|
-| Available hours | Total unallocated productive hours across the delivery workforce in the planning window | Point-in-time | Resource Manager |
-| Scheduled hours | Total hours committed to active and confirmed engagements in the same window | Point-in-time | Resource Manager |
-| Remaining capacity | Available hours minus buffer held for unplanned demand or in-flight engagement overruns | Point-in-time | Resource Manager |
-
-> Remaining capacity is the most operationally sensitive of the three. It should be held above a minimum threshold at all times to absorb natural variance in delivery. The specific threshold is set by the Resource Manager in the context of the current portfolio and hiring position, and reviewed monthly.
-
----
+See: [delivery-portfolio-management.md](delivery-portfolio-management.md)
 
 ### Deal to Delivery Vehicle Profiling Variables
 
@@ -204,22 +138,13 @@ Each variable is rated Low / Medium / High at Gate 1 by the Delivery Owner in co
 | High complexity / High uncertainty | Phased program with go/no-go gates; senior Delivery Owner required |
 | Low complexity / Low uncertainty | Lightweight engagement model; standard managed service or short-form project |
 
----
-
 ### Stage 1 Metrics Summary
 
 | Metric | Category | Type | Owner |
 |---|---|---|---|
-| Deal stage for forecast (by size / complexity) | Timing | Leading | Sales / Delivery Director |
-| Mean lead time: close to start (by complexity) | Timing | Leading | Delivery Director |
-| Mean lead time: advertise to hire (by seniority) | Timing | Leading | Resource Manager |
-| Onboarding lead time (by seniority) | Timing | Leading | Resource Manager |
-| T-shape density as % of population | Capability | Leading | Practice Lead |
-| Core skill population as % of total | Alignment | Leading | Practice Lead |
-| Deal types with high delivery alignment as % of pipeline | Alignment | Leading | Sales / Practice Lead |
-| Available hours | Capacity | Point-in-time | Resource Manager |
-| Scheduled hours | Capacity | Point-in-time | Resource Manager |
-| Remaining capacity | Capacity | Point-in-time | Resource Manager |
 | Complexity profile rating (8 variables, L/M/H) | Deal profiling | Point-in-time | Delivery Owner |
 | Uncertainty profile rating (5 variables, L/M/H) | Deal profiling | Point-in-time | Delivery Owner |
 | Composite profile and delivery vehicle recommendation | Deal profiling | Point-in-time | Delivery Owner + Practice Lead |
+| Time from signature to handover meeting completed | Transition timing | Leading | Delivery Owner |
+| % of engagements with completed Handover Record before kickoff | Transition compliance | Leading | Practice Lead |
+| Number of open risk items at Gate 1 | Risk | Point-in-time | Delivery Owner |
