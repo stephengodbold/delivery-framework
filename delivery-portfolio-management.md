@@ -15,6 +15,7 @@ The portfolio view is not a reporting layer on top of delivery. It is the mechan
 - Surface cross-engagement risks that are not visible at the individual engagement level
 - Support skilling and hiring decisions with data rather than reactive pressure
 - Ensure the organisation closes engagements cleanly and captures the knowledge and commercial outcomes that follow
+- Surface in-account growth signals from delivery relationships before they are visible to sales
 
 ---
 
@@ -27,7 +28,8 @@ The portfolio view is not a reporting layer on top of delivery. It is the mechan
 | Resource Manager | Owns capacity data; manages allocation across engagements; surfaces utilisation risks |
 | Finance Partner | Provides the commercial view of the portfolio; tracks forecast-to-actual variance across engagements |
 | Account Executive / Sales Lead | Provides pipeline visibility; co-owns the sales and delivery alignment measures |
-| Delivery Owners | Contribute engagement-level health data; surface cross-portfolio dependencies and risks |
+| Chief Customer Officer (CCO) | Owns client maturity and long-term account health; delivery-led sales measures are a shared input |
+| Delivery Owners | Contribute engagement-level health data; surface cross-portfolio dependencies, risks, and in-account growth signals |
 
 ---
 
@@ -160,6 +162,54 @@ These measures track whether the organisation is closing engagements cleanly and
 
 ---
 
+## Delivery-Led Sales
+
+### Purpose
+
+Delivery teams are in the room when the next opportunity is born. These measures create the habit of capturing that signal systematically. They are not sales metrics. They are delivery-sourced leading indicators of in-account growth potential, reviewed by the Delivery Director and shared with the Account Executive and CCO as inputs to account planning.
+
+Client maturity metrics are noted here for completeness but are more effectively owned by the CCO, who holds the broader account relationship view.
+
+### Measures
+
+**Relationship depth**
+
+Delivery relationships that are shallow or confined to a single layer of the client organisation are a risk signal, not just a growth signal. A team with access only at the project sponsor level has limited visibility of strategic intent and limited influence over renewal or expansion decisions.
+
+| Metric | Description | Type | Frequency | Owner |
+|---|---|---|---|---|
+| Active relationships by layer | Number of active stakeholder relationships per client, segmented by seniority layer (operational, management, executive) | Leading | Monthly | Delivery Owner |
+| Stakeholder relationship sentiment | Delivery Owner-assessed sentiment rating (Positive / Neutral / At risk) for each mapped stakeholder, reviewed at the monthly client business review | Leading | Monthly | Delivery Owner |
+
+**Scope evolution**
+
+Client-initiated scope additions and deferred requests are explicit expressions of demand the organisation is not currently capturing. The rate and nature of these signals should flow directly into account planning conversations.
+
+| Metric | Description | Type | Frequency | Owner |
+|---|---|---|---|---|
+| Rate of client-initiated scope additions | Number of client-initiated scope additions per engagement per fortnight | Leading | Fortnightly | Delivery Owner |
+| Out-of-scope requests declined or deferred | Number of requests that fell outside the agreed scope and were either declined or deferred, per engagement per quarter | Leading | Quarterly | Delivery Owner |
+
+> A high rate of declined or deferred requests that are not flowing into the sales pipeline is a commercial leakage signal. The Delivery Owner is responsible for logging these in CRM and flagging them to the Account Executive.
+
+**Expansion readiness**
+
+| Metric | Description | Type | Frequency | Owner |
+|---|---|---|---|---|
+| Active follow-on opportunity in CRM as % of active engagements | % of active engagements where a follow-on opportunity has been identified and logged in CRM by the Delivery Owner | Leading | Monthly | Delivery Owner / Account Executive |
+
+**Client maturity** *(CCO-owned)*
+
+Client maturity metrics — including engagement breadth across service types, net revenue per client, and multi-engagement client rate — are more effectively owned and reported by the CCO. The Delivery Director provides delivery-sourced inputs to these measures via the relationship depth and expansion readiness data above.
+
+### Cadence
+
+| Review | Frequency | Participants | Purpose |
+|---|---|---|---|
+| Delivery-led sales review | Monthly | Delivery Director, Account Executive, CCO | Review relationship depth, scope evolution signals, and expansion readiness across the active portfolio; align on account planning actions |
+
+---
+
 ## Portfolio Metrics Summary
 
 | Metric | Category | Type | Frequency | Owner |
@@ -191,3 +241,8 @@ These measures track whether the organisation is closing engagements cleanly and
 | Retention release rate | Closure | Lagging | Monthly | Finance Partner |
 | Finance Handover Record completion rate | Closure | Lagging | Monthly | Finance Partner |
 | Knowledge base entry completion rate | Closure | Lagging | Monthly | Practice Lead |
+| Active relationships by layer | Delivery-led sales | Leading | Monthly | Delivery Owner |
+| Stakeholder relationship sentiment | Delivery-led sales | Leading | Monthly | Delivery Owner |
+| Rate of client-initiated scope additions | Delivery-led sales | Leading | Fortnightly | Delivery Owner |
+| Out-of-scope requests declined or deferred | Delivery-led sales | Leading | Quarterly | Delivery Owner |
+| Active follow-on opportunity in CRM as % of active engagements | Delivery-led sales | Leading | Monthly | Delivery Owner / Account Executive |
