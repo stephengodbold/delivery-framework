@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This framework governs how a 200-person technology professional services and managed services organisation manages the flow of work from the point of sale through to financial close. It is built on the belief that alignment and communication, not process compliance, are what determine whether delivery succeeds.
+This framework governs how a 50-200-person technology professional services and managed services organisation manages the flow of work from the point of sale through to financial close. It is built on the belief that alignment and communication, not process compliance, are what determine whether delivery succeeds.
 
 The framework sits above project methodology. It does not prescribe whether a project runs as Agile, PRINCE2, waterfall, or a hybrid. It creates the organisational conditions for any methodology to work.
 
@@ -29,7 +29,6 @@ The framework sits above project methodology. It does not prescribe whether a pr
 
 | Document | Description |
 |---|---|
-| [delivery-management-framework.md](delivery-management-framework.md) | This file. Framework overview, guiding principles, stage summaries, metrics dashboard, and governance. |
 | [delivery-portfolio-management.md](delivery-portfolio-management.md) | Portfolio-level objectives, roles, sales and delivery alignment measures, cross-engagement measures, closure measures, and portfolio cadences. |
 | [stage-1-sales-to-delivery-transition.md](stage-1-sales-to-delivery-transition.md) | Gate 1 criteria, roles, transition meeting, Delivery Handover Record template, and per-engagement Stage 1 metrics including deal to delivery vehicle profiling variables. |
 | [stage-2-project-engagement-delivery.md](stage-2-project-engagement-delivery.md) | Delivery cadence, engagement health scoring, scope and change management, workforce and utilisation guidance, and Stage 2 metrics. |
@@ -40,23 +39,7 @@ The framework sits above project methodology. It does not prescribe whether a pr
 
 ## Framework Stages
 
-```
-Sales to Delivery Transition
-        |
-      Gate 1
-        |
-Project / Engagement / Consulting Delivery
-        |
-      Gate 2
-        |
-Delivery Closure
-        |
-      Gate 3
-        |
-Delivery to Finance Transition
-```
 
----
 
 ## Stage 1: Sales to Delivery Transition
 
@@ -88,34 +71,19 @@ This stage covers the financial close of each engagement. It includes Gate 3 cri
 
 See: [stage-4-delivery-to-finance-transition.md](stage-4-delivery-to-finance-transition.md)
 
----
-
-## Framework-Level Metrics Dashboard
-
-Reviewed monthly by leadership. Intended to give a probabilistic, forward-looking view of organisational health.
-
-| Metric | Type | Frequency | Owner |
-|---|---|---|---|
-| Engagement health distribution (% Green / Amber / Red) | Leading | Fortnightly | Delivery Director |
-| Billable utilisation (rolling 4-week) | Leading | Weekly | Resource Manager |
-| Bench time by practitioner | Leading | Weekly | Resource Manager |
-| Forecast-to-actual revenue variance | Lagging (calibration) | Monthly | Finance |
-| Days from signature to kickoff | Leading | Per engagement | Delivery Owner |
-| Scope change velocity (changes per fortnight) | Leading | Fortnightly | Delivery Owner |
-| Client business review completion rate | Leading | Monthly | Delivery Director |
-| Retrospective completion rate | Lagging | Monthly | Practice Lead |
-| Skilling gaps identified vs resolved | Leading | Monthly | Practice Lead |
-| Time to fill open resource gaps | Leading | Weekly | Resource Manager |
-
----
-
 ## Governance and Ownership
+
+### Framework-Level Governance
 
 | Element | Owner | Review frequency |
 |---|---|---|
 | Framework design and updates | Delivery Director | Annually or on major organisational change |
-| Gate criteria compliance | Practice Lead | Per engagement |
-| Engagement Health Register | Delivery Owner | Fortnightly |
 | Portfolio metrics dashboard | Delivery Director | Monthly |
 | Workforce review | Resource Manager + Practice Lead | Monthly |
-| Finance handover compliance | Finance Partner | Per engagement |
+
+### Per-Engagement Governance
+
+Per-engagement governance elements are documented in Stage 2.
+
+See: [stage-2-project-engagement-delivery.md](stage-2-project-engagement-delivery.md)
+
